@@ -6,3 +6,4 @@ xhofe/alist:latest
 xiaoyaliu/alist
 --platform=linux/amd64 xiaoyaliu/alist:latest
 --platform=linux/amd64 laoyutang/clash-and-dashboard:latest
+--platform=linux/amd64 haroldli/xiaoya-tvbox:latest
