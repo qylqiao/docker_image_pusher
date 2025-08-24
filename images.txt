@@ -7,3 +7,4 @@ xiaoyaliu/alist
 --platform=linux/amd64 xiaoyaliu/alist:latest
 --platform=linux/amd64 hanxi/xiaomusic
 --platform=linux/amd64 haroldli/xiaoya-tvbox:latest
+xhongc/music_tag_web:latest
