@@ -9,4 +9,4 @@ xiaoyaliu/alist
 --platform=linux/amd64 haroldli/xiaoya-tvbox:latest
 xhongc/music_tag_web:latest
 jamesits/dst-server
-ylei2023/dontstarvetogether:20055272
+ylei2023/dontstarvetogether:latest
